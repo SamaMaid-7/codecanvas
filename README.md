@@ -1,4 +1,4 @@
 # codecanvas
 This is My first Git Repository
 <br>
-Author - Samruudhi Maid
+Author - Samruudhi M
